@@ -4,8 +4,7 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
 	profiles="urn:mpeg:dash:profile:isoff-live:2011"
-	type="static"
-	mediaPresentationDuration="PT9M56.4S"
+	type="dynamic"
 	maxSegmentDuration="PT10.0S"
 	minBufferTime="PT20.8S">
 	<ProgramInformation>
